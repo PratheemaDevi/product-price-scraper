@@ -19,7 +19,9 @@ A Python script that scrapes product prices from an e-commerce website and saves
 ## How to run
 
 1. Install the required libraries:
+pip install requests beautifulsoup4 pandas
 2. Run the script:
+python productpricescraper.py
 3. Output is saved as a CSV file with the scraped data.
 
 ## Sample output
